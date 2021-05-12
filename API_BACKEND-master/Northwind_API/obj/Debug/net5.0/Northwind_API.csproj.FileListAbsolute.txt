@@ -1,0 +1,7 @@
+C:\Users\jorge\Downloads\API_BACKEND-master\API_BACKEND-master\Northwind_API\obj\Debug\net5.0\Northwind_API.csprojAssemblyReference.cache
+C:\Users\jorge\Downloads\API_BACKEND-master\API_BACKEND-master\Northwind_API\obj\Debug\net5.0\Northwind_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Downloads\API_BACKEND-master\API_BACKEND-master\Northwind_API\obj\Debug\net5.0\Northwind_API.AssemblyInfoInputs.cache
+C:\Users\jorge\Downloads\API_BACKEND-master\API_BACKEND-master\Northwind_API\obj\Debug\net5.0\Northwind_API.AssemblyInfo.cs
+C:\Users\jorge\Downloads\API_BACKEND-master\API_BACKEND-master\Northwind_API\obj\Debug\net5.0\Northwind_API.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Downloads\API_BACKEND-master\API_BACKEND-master\Northwind_API\obj\Debug\net5.0\Northwind_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jorge\Downloads\API_BACKEND-master\API_BACKEND-master\Northwind_API\obj\Debug\net5.0\Northwind_API.MvcApplicationPartsAssemblyInfo.cache
